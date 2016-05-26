@@ -56,7 +56,7 @@ eventsLink.addEventListener("click", function() {
     event.preventDefault();
     content5.classList.toggle("unhide");
     eventsLink.classList.toggle("active");
-    rectangle5s.classList.toggle("rectangle-active");
+    rectangle5.classList.toggle("rectangle-active");
     
 });
 
